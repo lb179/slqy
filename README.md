@@ -1,2 +1,2 @@
 # slqy
-It is my repository
+## It is my repository
